@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Exercice 16"
-  text: "Revue de code documentée"
+  text: "Revue de code documentée de tp1"
   tagline: Par Samuel Croteau et Marc-Antoine Jobin
   actions:
     - theme: brand
